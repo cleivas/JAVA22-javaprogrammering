@@ -60,6 +60,7 @@ class GUI {
 			}
 				
 		};
+		
 		b.addActionListener(bListener);
 	}
 	
